@@ -8,17 +8,18 @@ Solo es necesario bajar las dependencias de node
 
 ```
 npm install
-
 ```
 
 Posteriormente para correr el proyecto 
 ```
 node .
-
 ```
 o
 
 ```
 node server.js
-
+```
+se ejecuta localmente
+```
+http://localhost:3000/
 ```
